@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachecalculate",
+        "uuid": 481600,
+        "checksum": "2cquvh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
